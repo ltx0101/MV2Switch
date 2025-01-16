@@ -1,4 +1,3 @@
-﻿# Load Windows Forms assembly
 Add-Type -AssemblyName System.Windows.Forms
 
 # Registry Paths and Key
