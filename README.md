@@ -38,3 +38,16 @@ iwr "https://raw.githubusercontent.com/ltx0101/MV2Switch/main/MV2Switch.ps1" -Ou
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ```
 </details>
+
+---
+<div align="center">
+   
+[![PayPal Donate](https://img.shields.io/badge/PayPal_Donate-s?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/AggelosMeta)
+
+</div>
+
+<div align="center">
+  
+Made with ❤️ and PowerShell  
+
+</div>
